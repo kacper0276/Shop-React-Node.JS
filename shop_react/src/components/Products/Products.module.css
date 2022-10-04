@@ -1,0 +1,6 @@
+.heightBlock {
+  min-height: 67.3vh;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
